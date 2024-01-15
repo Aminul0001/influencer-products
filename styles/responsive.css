@@ -1,0 +1,10 @@
+@media screen and (max-width: 576px){
+    .nav-tile{
+        flex-direction: column
+        ;
+    }
+
+    nav ul{
+        padding: 0 20px;
+    }
+}
