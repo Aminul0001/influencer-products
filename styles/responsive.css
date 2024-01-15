@@ -1,10 +1,21 @@
 @media screen and (max-width: 576px){
     .nav-tile{
-        flex-direction: column
-        ;
+        flex-direction: column;
     }
 
     nav ul{
-        padding: 0 20px;
+        padding: none;
     }
+
+    .prebook {
+        flex-direction: column-reverse;
+        padding: 40px;
+       
+    }
+    .prebook-content-2{
+     
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+
 }
